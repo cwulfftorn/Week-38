@@ -1,0 +1,8 @@
+entity/Student_.class
+facade/Test.class
+entity/Semester_.class
+entity/Semester.class
+facade/Facade.class
+entity/Teacher_.class
+entity/Teacher.class
+entity/Student.class
